@@ -1,0 +1,33 @@
+Source: Reddit r/UTAustin
+Thread Title: Professor Recommendations for Incoming CS?
+URL: https://www.reddit.com/r/UTAustin/comments/1da1eb2/professor_recommendations_for_incoming_cs/
+Total Comments: 8
+
+--- ORIGINAL POST ---
+Can any current CS majors give recommendations to professors? I believe the courses I'll take are CS312, CS314, and CS311. Also my calculus courses would be M408N and M408D. I know college professors play a big part in college education and experience, so I just want to make sure I'm with great professors.
+
+--- COMMENTS ---
+
+Budget-Football6806:
+I'm also an incoming CS freshman. You choose either CS312 (introductory) OR CS314 and CS311 (skipping 312). At orientation you get assigned a pod that decides your math and CS class times and professors for you and you can't change them, so worrying about professors won't do much good.
+
+RapidFX_ (OP):
+Okay thanks. So if we can't choose CS professors, what about other classes like core and UGS?
+
+Vishalspr:
+For CS312, the course schedule shows only one professor -- Carol Ramsey. So do all freshmen need to take CS312 in Fall, or can they take CS311 and CS314 in Fall instead? Any advantage of going either route?
+
+Budget-Football6806:
+CS312 probably only has one professor. You don't have to take it -- in fact slightly more people choose to take CS314 and CS311 their first semester, which is what I did. Skip ahead if you're confident with Java or are a really good programmer, otherwise stick to CS312. CS311 is pretty easy on the whole so don't factor it into your decision.
+
+Vishalspr:
+I have some Java programming experience but would not classify myself as a really good programmer. Would the CS312 route be better in my case to get a refresher?
+
+gyllbane99:
+Mitra, if he is still teaching. I give him credit for 90% of my understanding of programming. He teaches algorithms and how to problem solve, not just how to code. His class is hard but he is a great teacher.
+
+Kitchen_Coconut:
+I will hesitantly second this. I took his algorithms class and it was tough. If you really want to learn, take his class but be prepared to struggle a bit.
+
+Educational_Chip6498:
+I would really recommend taking Mike Scott for CS314! It's not gonna be an easy class by any means but he is a super passionate lecturer and I learned a ton. If you can't get him I think Kaur will be pretty good as well but she is new to teaching CS314.

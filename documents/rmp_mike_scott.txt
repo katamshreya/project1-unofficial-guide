@@ -1,0 +1,119 @@
+Professor: Mike Scott
+Department: Computer Science
+University: University of Texas at Austin
+Course: CS314 (Data Structures)
+Overall Quality: 4.5/5 | Would Take Again: 89% | Difficulty: 3.7/5
+Total Ratings: 242
+
+--- REVIEWS ---
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: C+ | Apr 2026
+He's an incredible person! Lectures are always engaging. He does teach in a very implementation-based format, and you have to work through the nuances of what he teaches. Assignments are fairly long. Grind out past exams, and make sure to do well on them, because it's nearly 90% of your grade, and it will make or break your grade.
+Tags: Test heavy, Graded by few things, Accessible outside class
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Jan 2026
+Lectures are pretty engaging but most of the content will be through doing the past exams. You can do well in the class just by doing and understanding all of the past tests. People complain about the assignments and the hygiene but if you attend all/most of the classes then you only need an average of 15/20 on the assignments.
+Tags: Extra credit, Amazing lectures, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B- | Dec 2025
+Mike cares so much for his students it's insane. He loves teaching and it shows -- just go to his office hours. I was blown away by his patience with me every time I was insanely confused with something on an assignment or content. Don't cheat, and lock in early on those practice exams -- exams reward those who do.
+Tags: Tough grader, Amazing lectures, Test heavy
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: B | Dec 2025
+He has great assignments that inspired me to program other adjacent areas, but he has too many points on his hygiene guide. Large amounts of test preparation are provided, and office hours help. Lectures can get tangential and favors obnoxious, loud students.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Dec 2025
+Mike Scott has already become one of my favorite professors at UT. His teaching style is amazing and after completing this course, you really feel like you can do anything. Just make sure to do assignments well even though they're only 10% of the grade and go to class as the exams really test your knowledge on these things.
+Tags: Amazing lectures, Inspirational, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Dec 2025
+I mean, he's the only choice you really have, the class is definitely hard but he teaches it well.
+Tags: Tough grader, Amazing lectures, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Dec 2025
+Mike is a great lecturer and a great guy. I feel like I learned so much more about computer science in this course than ever before. It is really hard though, and you have to spend a lot of time on programming assignments and exam studying. The TAs are so helpful and go talk to Mike at office hours. He is the best.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2025
+Lectures are really engaging and keep you awake. The homework can be difficult at times, but I found it really helps to get a better understanding of the class. As long as you put in some effort into listening to lectures, doing your homework, and doing some practice tests before exams, you will be fine.
+Tags: Lots of homework, Respected, Test heavy
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: C+ | Dec 2025
+Very nice professor, accessible outside of class and happy to answer questions. Tests being worth 87% is brutal for someone who has test anxiety. 25 hours of work for 1% of your grade. Overall great guy though!
+Tags: Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Dec 2025
+Mike Scott is the GOAT of entertaining lectures. Make sure you take time on your own to fully learn the material. Prior knowledge of data structures is extremely helpful. There is so much material to learn in such a small amount of time. To succeed, GRIND past exams. Dedicate ~2 weeks before exams.
+Tags: Amazing lectures, Test heavy
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: Not sure | Dec 2025
+This class is a rough one. The grading structure is not super forgiving so having to prepare for the exams alongside learning is challenging. Learned a ton though, just didn't transfer a lot to the exam.
+Tags: Tough grader, Lots of homework, Respected
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2025
+Its Mike Scott. Legit the best professor I will ever have and best professor at UTCS. 10/10 Would take again.
+Tags: Clear grading criteria, Inspirational, Hilarious
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Nov 2025
+When Mike retires, UTCS ranking falls out of top 10. Definitely NOT a blow off class, but it does a very good job of shaping students into being ready for a real CS education. Do practice exams, get used to being tortured by the code hygiene guide, start on assignments early, and enjoy the lectures.
+Tags: Amazing lectures, Hilarious, Test heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Nov 2025
+Many students find these lectures to be entertaining, and that is very true. However, that stops once you walk out and realize you didn't actually learn the material past a surface level understanding and are forced to teach yourself everything. If you want to succeed just finish assignments and grind past exams.
+Tags: Tough grader, Lots of homework, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure | Nov 2025
+Your mileage may vary.
+Tags: Participation matters, Amazing lectures, Lots of homework
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B- | May 2025
+Do the practice exams. Trace the solutions for the programming problems if you have to. Learn the concepts you miss for the short problems. Watch or attend every lecture. Mike is a very good and even kind professor but he is rigid with his class outside of extraneous circumstances.
+Tags: Amazing lectures, Lots of homework, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A- | May 2025
+Engaging and enthusiastic lecturer. Coding assignments can take a lot of time (start early!). Tests make or break your grade. Tests are difficult but there are a lot of practice and sample tests to ensure you do well. I recommend studying at least 2 weeks before exams.
+Tags: Amazing lectures, Lots of homework, Respected
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Apr 2025
+Best CS professor I've had, lectures were very engaging. HW's are a lot of work but doable, don't affect grade too much but are very helpful for understanding concepts. Midterms are bulk of class so study A LOT (DO THE PRACTICE EXAMS). Difficult, but doable and fun class. Scott's teaching single handedly convinced me to not drop out.
+Tags: Tough grader, Lots of homework, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Apr 2025
+One of the most goated professors in the department. Chill and approachable guy with amazing lectures. Tests and projects were graded rather harshly, but is overall a great class that pushes you to learn.
+Tags: Tough grader, Amazing lectures, Respected
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Apr 2025
+Goated professor with amazing lectures. Three exams weighted 90% of your grade, but plenty of review material and exam content is fair. Projects are doable and help to solidify understanding of material covered in class. Overall one of the best CS profs I've had at UT.
+Tags: Amazing lectures, Respected, Test heavy
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Drop/Withdrawal | Apr 2025
+90% of your grade being from tests is outrageous.
+Tags: Tough grader, Lots of homework, Test heavy
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: B+ | Mar 2025
+Overrated professor.
+Tags: Tough grader, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Jan 2025
+Mike is an amazing professor. The lectures are very entertaining, and the assignments are super helpful for preparing for the programming sections of exams. There are plenty of practice tests available so there is no excuse to do bad.
+Tags: Tough grader, Extra credit, Amazing lectures
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Jan 2025
+Going to lectures is definitely helpful -- there's always one or two things you can only know from going to class. Not that difficult, assignments are only 10% total, so don't stress about them.
+Tags: Clear grading criteria
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2024
+Amazing professor, super funny guy with great lectures. Tests are 90% of your weight so study for those -- there are 20+ years of past exams on his site. Assignments are difficult but doable if you use help hours to your advantage, start early!
+Tags: Clear grading criteria, Respected, Test heavy
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2024
+Mike Scott is wonderful and one of the best UTCS professors. His lectures are amazing and he incorporates many funny anecdotes. The tests are fairly difficult and 90% of the grade, but he gives abundant past tests to help you prep.
+Tags: Inspirational, Respected, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Dec 2024
+Mike Scott is a fantastic professor, a real gem within the UTCS department. His lectures are super engaging where it seems to be a conversation rather than a lecture. His class is super test heavy (90% are tests) but he has many past tests released that are the exact same format -- use those. The labs take a long time but are worth it.
+Tags: Amazing lectures, Lots of homework, Test heavy
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2024
+Best UTCS professor, hands down. His lectures are really nice, especially for people with no prior knowledge. His assignments are a bit time-consuming but doing them yourself is a great way to develop skills for the exams. He releases all his previous exams so there's a lot of practice material.
+Tags: Amazing lectures, Inspirational, Respected

@@ -1,0 +1,112 @@
+Professor: Siddhartha Chatterjee
+Department: Computer Science
+University: University of Texas at Austin
+Course: CS429 (Computer Architecture)
+Overall Quality: 2.8/5 | Would Take Again: 45% | Difficulty: 4.3/5
+Total Ratings: 166
+
+--- REVIEWS ---
+
+Quality: 3.0 | Difficulty: 5.0 | Grade: B- | May 2026
+Lectures are boring and exams are the most difficult I have ever taken. However, it is not hard to pass if you do all labs to completion, which are very time consuming. DO NOT PROCRASTINATE MM LAB!!!
+Tags: Extra credit, Test heavy
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: Not sure | May 2026
+Chatterjee gives wonderful lectures. It is clear that a great deal of time and care was invested into the presentation materials. The color schemes, animations, and slides are beautifully designed and visually engaging. I learned a lot from this course and am very happy to have taken it.
+Tags: Amazing lectures
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Not listed | Apr 2026
+The assignments are ok until SE lab -- that's when the stress really started. Tests are difficult -- prepare heavily in advance because it is nothing like the practice exams.
+Tags: Tough grader, Lots of homework, Test heavy
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: B- | Apr 2026
+Lectures were boring and hard to understand half the time. Labs take forever but are doable. Exams are HARD and no matter how much you study it probably won't help that much. TAs just told students to use AI if they had questions. The proficiency exams are bad for no reason.
+Tags: Tough grader, Lots of homework, Accessible outside class
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Feb 2026
+Class is overloaded with outdated teaching methods.
+Tags: Tough grader, Lots of homework, Beware of pop quizzes
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Rather not say | Jan 2026
+Artificially inflating the difficulty of this class year after year from what I hear.
+Tags: Tough grader, Get ready to read, Graded by few things
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: B- | Dec 2025
+Dr. Chatterjee gives excellent lectures and cares about his students' success. The class covers a great deal of material and is quite a step up in difficulty from Data Structures, making it difficult to properly study for tests. The assignments are also difficult, but hard to fail unless you start late.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: Not sure | Dec 2025
+This class is brutal. But he's a nice guy -- out of all the CS professors, him and Joshi are genuinely the sweetest.
+Tags: Lecture heavy
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: B+ | Dec 2025
+Lectures are dense and boring. Just need some time and effort to connect the dots, usually through labs or previous exam questions. Labs are all doable and free points as long as you keep up with course material. Exams are hard but past exams are given. Half the TAs' usefulness should be questioned.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Dec 2025
+Exams are brutal, assignments are easy. Anyone who complains is an AI warrior.
+Tags: Tough grader, Amazing lectures, Clear grading criteria
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Dec 2025
+Dr. Chatterjee is an amazing professor. He teaches the class really well and slows down when he needs to -- pace is never an issue. He is super caring and calm. If there's one class in your schedule you need to go to, it's this. There is some extra credit. The GDB test isn't bad if you do at least some of the labs without AI.
+Tags: Participation matters, Extra credit, Amazing lectures
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Incomplete | Nov 2025
+Very knowledgeable professor. But this is a really difficult and content-heavy class. Exam 1 was a real curveball. To pass the class you must complete a GDB proficiency test, and it feels like the skills needed to pass were hardly taught.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure | Nov 2025
+The GDB proficiency exam covers stuff they barely taught, and they keep making it harder. Nobody in my testing room completed the proficiency exam.
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: A- | Aug 2025
+Great professor who is very knowledgeable. Lectures are very dense and can be confusing. Go to office hours and review lectures, notes, worksheets, and textbook after class. TAs are great and really helpful. Exams are extremely difficult. Review previous exams and quizzes. Submit projects until 100% and do all extra credit.
+Tags: Tough grader, Test heavy, Graded by few things
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Jul 2025
+He's like a caring dad. This is a weed out class so be prepared.
+Tags: Tough grader, Lots of homework
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: A- | May 2025
+Great professor, tries to make sure everyone understands a topic before moving on. The course is pretty difficult, but you came here to learn and this course ensures you come out a better computer scientist. TAs are great as well.
+Tags: Tough grader, Lots of homework, Test heavy
+
+Quality: 3.0 | Difficulty: 4.0 | Grade: A- | May 2025
+He's a good prof and very accessible outside of class. His lectures can be boring and slow but the content is hard to grasp, especially if this is your first introduction to systems. I found the class to be pretty interesting. TAs are literally the best.
+Tags: Participation matters, Lecture heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B- | Apr 2025
+Difficult class with difficult content, projects, and exams. Only teaches in ways that he understands and is rather unsympathetic. It is a hard class made harder by the instructor. Bravo to the TAs as they were very patient and helpful.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B | Mar 2025
+This is a hard class content-wise, but Chatterjee literally goes out of his way to make it more difficult through insane exams and unclear, sometimes buggy projects. You should avoid if at all possible.
+Tags: Tough grader, Lots of homework, Test heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B- | Mar 2025
+Chatterjee is the absolute worst professor -- take Joshi instead. He explains nothing and expects you to know all these random terms. Do not take this guy if you aren't already a comp arch genius.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B- | Jan 2025
+Unsympathetic, boring and dense lectures. TAs were the only reason this class was passable. He only teaches in ways he understands.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A- | Jan 2025
+Pretty chill guy.
+Tags: Tough grader, Test heavy
+
+Quality: 3.0 | Difficulty: 5.0 | Grade: B- | Dec 2024
+Not as bad as I thought. Everything prior to week 10 was easy and enjoyable. Even the first two tests were manageable. However, hell breaks loose during SE lab and exam 3 -- it becomes a whole different class from there.
+Tags: Lots of homework, Respected, Test heavy
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: A | Dec 2024
+Dry lecturer that made it very hard to pay attention during class. Would often watch recorded lectures to teach myself the content. Overall not too difficult except for the final project, which took too many hours.
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: C- | Dec 2024
+Although this class is tough, Dr. Chatterjee should be respected as an instructor who knows what he speaks. Yes you may not get the grade you want, but it's more about the content that should matter, and in this case it is fundamental. It is a hard class but nothing you can't accomplish.
+Tags: Extra credit, Respected, Test heavy
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: C | Dec 2024
+Unpopular opinion: Chatterjee's lecturing style works better for me than Mike Scott's. He genuinely wants students to understand, whether in class, office hours, or with TAs. But you have to show up and put in the effort. The TAs are AMAZING and honestly the reason I passed. Start SE Lab early!!!
+Tags: Clear grading criteria
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: B- | Dec 2024
+This class broke my mental health. Dr. Chatterjee is knowledgeable, but exams are harsh. One mistake on weekly assignments can put you on the verge of failing. Midterms allow partial credit but the final is all or nothing. Lectures are fast and dense so rely on TAs, discussion, and office hours.
+Tags: Lecture heavy

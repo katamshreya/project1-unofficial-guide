@@ -1,0 +1,46 @@
+Source: Reddit r/UTAustin
+Thread Title: Is Mootaz better than Norman for CS439?
+URL: https://www.reddit.com/r/UTAustin/comments/1k1kbl8/is_mootaz_better_than_norman_for_cs439/
+Total Comments: 22
+
+--- ORIGINAL POST ---
+I looked on RMP and saw that Mootaz was rated higher, but he had only been teaching recently so his reviews were fewer than what Norman had.
+
+--- COMMENTS ---
+
+[Deleted User]:
+The positive re Norman is that she does have a VERY good sequence of challenging projects that build nicely upon each other. It's a sequence that's been honed over years and you can rely on it to be very challenging, feel rewarding when completed, and impart good foundational knowledge relevant to the class.
+
+That's the good part. Here is the not-so-good part.
+
+GRADING: her grading system is atrocious. The problem is that you will literally have NO idea what your grade is until the class is over. There are exams, re-takes, re-takes of re-takes, and parts of the exam are core and others are not -- all thrown into a chaos blender to come up with your final grade. It's unacceptable to create a grading system where you literally do not know where you stand from first day to last.
+
+FORCED PARTNER PROJECTS: if you don't know people in the class, you will be forced to do projects with random partners. There is a big possibility you will get paired with someone who insists on using AI to generate code, which makes it impossible to separate your work from theirs.
+
+KEYBOARD SWAPPING: in the projects, you are literally required to swap the keyboard with your partner every 30 minutes. You cannot divide the work into modules -- you must sit there coding together and swapping the keyboard every 30 minutes. It's ridiculous.
+
+If one of the other professors uses her same project sequence, I would DEFINITELY recommend taking that other professor over Norman.
+
+Objective-Menu3158:
+I highly recommend Professor Mootaz. He really cares about his students and loves teaching. Last semester he had to use Norman's grading system, which he clearly didn't like, and he understood our complaints about it. He tried to make things easier by changing up the policy a little. He also doesn't do a lot of the extra assignments Norman does and isn't too strict about attendance, which makes his class a lot more enjoyable.
+
+[Deleted User]:
+Probably take Norman. I'd prefer the devil I know (professor with terrible class policies but using an excellent well-structured project sequence) over a complete unknown mystery. Don't underestimate the value of Norman's project sequence -- it is very good and will help forge you into a better programmer.
+
+yojuegofortnite:
+Mootaz is awesome. He made CS439 very digestible along with just being a great guy overall. He definitely knows his stuff and is very passionate about it. He went over the same projects and core topics as Norman while also adding a little supplemental knowledge, so overall you'll learn basically the same things.
+
+QubitEncoder:
+Norman is great. You will hear divisive things about her. UTCS is top ten in the nation because of courses like hers. Yeah, it has a lot of work and she runs things differently, but you will be better for it. I have had the opportunity to meet people at other top 10 universities and their OS course does not even contend with Dr. Norman's. Take her. Also, Dr. Norman is a great human being.
+
+Slice_Of_lemon101:
+There's a reason Dr. Mootaz's sections closed before Norman's. Best of luck dealing with a horrible grading scheme that is implemented even more horribly.
+
+[Deleted User]:
+Someone above posted that Mootaz uses the same project sequence as Norman. If that's true, there's really no reason to choose Norman over Mootaz.
+
+QubitEncoder:
+The grading scheme isn't even that bad. Also, it's based on research, so even if you personally feel it is not an optimal scheme, the data says otherwise.
+
+ATXblazer:
+Norman is THE CS439 experience. It's a tough class but will make you better.

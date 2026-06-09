@@ -1,0 +1,137 @@
+Professor: Alison Norman
+Department: Computer Science
+University: University of Texas at Austin
+Course: CS439 (Operating Systems)
+Overall Quality: 2.5/5 | Would Take Again: 35% | Difficulty: 4.6/5
+Total Ratings: 166
+
+--- REVIEWS ---
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: A | May 2026
+Looking past the grading scheme (which is confusing), Norman is one of the best professors in UTCS. The class is meant to be hard, get over it.
+Tags: Tough grader, Amazing lectures, Hilarious
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: B | May 2026
+One of the most difficult classes I have taken, but the professor is a very good lecturer. Grading scheme is confusing and makes an A very difficult, but also makes failing very difficult. All homeworks are group projects so make friends. Clear your schedule if you can.
+Tags: Group projects, Lots of homework, Lecture heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C | Apr 2026 | Course: CS349
+The highest grade possible without giving this class 100% of your life is a B-. Don't even consider an A as a possibility unless you're willing to pour countless hours mastering every niche thing. Be prepared to teach yourself everything as lectures are just reviews of videos.
+Tags: Tough grader, Group projects, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure | Apr 2026
+Never got the hate and never will. Only scary part is the grading policy but as long as you try your best you're guaranteed to do okay.
+Tags: Participation matters, Group projects, Amazing lectures
+
+Quality: 3.0 | Difficulty: 4.0 | Grade: B- | Mar 2026
+The flipped learning model was not something that particularly worked for me. The class is hard but if you focus on understanding how things work instead of memorizing you will do a lot better. She's nice and very understanding. She gets too much hate.
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Not sure | Feb 2026
+Very passive aggressive and often refuses to help students. So many things to track and she does not try to make it easier. Feedback on exams isn't helpful and she is making the class harder and harder.
+Tags: Tough grader, Lots of homework
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: B+ | Dec 2025
+Dr. Norman is the only CS professor I've ever had who is organized and a great lecturer. OS is just hard and a lot of people blame her for their bad grades when they aren't putting in the work. Her grading scheme seems scary but she will average your columns at the end so don't stress.
+Tags: Lecture heavy
+
+Quality: 5.0 | Difficulty: 1.0 | Grade: A- | Dec 2025
+Easy class.
+Tags: Tough grader, Group projects, Lecture heavy
+
+Quality: 5.0 | Difficulty: 1.0 | Grade: A- | Dec 2025
+She is not the devil everyone claims she is. You just gotta study a lot.
+Tags: Group projects, Clear grading criteria, Lecture heavy
+
+Quality: 5.0 | Difficulty: 1.0 | Grade: A | Dec 2025
+Class was lowkey light, I don't know why people always freak out about this class.
+Tags: Hilarious, Respected
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2025
+Projects are quite a bit of work but doable. Tests are straightforward -- just review notes and practice material. Make sure to go to all classes and discussion. Course grading scheme is a bit weird. Generally easier than comp arch, just more work for labs.
+Tags: Group projects, Lots of homework
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure | Dec 2025
+The worst class I've ever taken at UT. Weird grading scheme that makes it difficult to get anything higher than a C. Projects take an insane amount of time and it always feels like your time is never respected. Drop this class and take Mootaz instead.
+Tags: Tough grader, Lots of homework
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Aug 2025
+While the grading scheme is a lot to take in, I realized the primary goal of it is for us to learn. Once I stopped worrying about my grade and focused on the projects I had a much better experience. Dr. Norman is the best there is and cares about your success and learning.
+Tags: Tough grader, Participation matters, Group projects
+
+Quality: 3.0 | Difficulty: 5.0 | Grade: A- | Jun 2025
+Dr. Norman is kind and I liked the flipped classroom, multiple chances for retakes, and group focus. However, she wasn't open to feedback, the grading scheme was demotivating, and projects are grueling. To do well, don't let the grading scheme discourage you, go to her office hours, and participate.
+Tags: Group projects, Lots of homework, Caring
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: A | May 2025
+She's probably the nicest teacher I've had so far and really makes an effort to get to know you. However, projects are sooooo time consuming. Tests are alright but one tiny mistake has you going from a 5 to a 3. You don't learn anything going to lectures.
+Tags: Tough grader, Group projects, Lots of homework
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B | May 2025
+Spent more time doing mind maps than sleeping.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: B | May 2025
+Future students: read OSTEP, go to EVERY single class and section, never get on Dr. Norman's bad side, review slides for exams, get through projects. Complaints: murky grading, lecture videos mostly revise book content, flipped class sometimes wasteful. Dr. Norman does care a lot and this class is hard but doable.
+Tags: Tough grader, Group projects, Lots of homework
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: A | Apr 2025
+Way overhated. There is a lot of work but the exams have so many opportunities to retake that any level of effort is enough to get a B. Getting an A is a lot of work but certainly achievable if you put in the time. I'm honestly a big fan of Dr. Norman and had fun in the class.
+Tags: Participation matters, Group projects, Lots of homework
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: C | Apr 2025
+One of the worst teachers I have ever taken in the UTCS department. Mandatory lectures are pointless and useless -- all content is covered in 1 hour pre-lecture videos. Tests aren't too bad if you look at slides, but projects and the grading scheme are nightmare fuel.
+Tags: Tough grader, Participation matters, Graded by few things
+
+Quality: 1.0 | Difficulty: 1.0 | Grade: Not sure | Apr 2025
+OS was the hardest class. I spend at least 30 hours a week on the projects, 50-60 hours during hard projects. The instructions are very vague and sometimes downright wrong which costs hours. I don't remember a day since I started the projects that I have had a day off.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B+ | Mar 2025
+Be ready for one of the most intense classes with the worst grading system to ever exist. The entire semester it was not made clear where I stood with my grade. Be ready for anxiety surrounding that, especially if you feel like you are on the edge of passing or failing.
+Tags: Tough grader, Group projects, Lots of homework
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Incomplete | Mar 2025
+Norman is nice! But you just have to get through it. The grading scheme is bad if you are trying to get a good grade but very lenient if you just want the C. Either way you will be putting in at least 20 hours of total work and lectures per week.
+Tags: Group projects, Lots of homework, Test heavy
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Incomplete | Mar 2025
+Norman is a nice person. HOWEVER SHE IS A HORRIBLE TEACHER. She assigns a workload of 30+ hours a week minimum. She makes students code topics she has not taught. The TAs are useless and do not answer any questions, even conceptual ones.
+Tags: Group projects, Lots of homework
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: B+ | Feb 2025
+Dr. Norman as a person is great -- she's fun to talk to and provides great insight. Tests are fine, it's just the projects that make the class hard. Pick a good group.
+Tags: Participation matters, Group projects, Caring
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure | Feb 2025
+Her lectures are an absolute waste of 2 hours as the pre-lecture videos mostly cover everything. She gets annoyed very easily when students question or challenge her methodologies, even when it's her fault.
+Tags: Tough grader, Participation matters
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Jan 2025
+Her grading scheme might seem weird but you get used to it. As long as you don't slack in any of the categories you'll be fine. She does a flipped classroom where you watch lecture videos before class and discuss during class time, which helps reinforce what you learned.
+Tags: Tough grader, Group projects, Inspirational
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: B | Dec 2024
+This course was hard but Norman pushed us through. She is kind and you can tell she really cares about her students. The grading system is really complicated but it is not too hard to get a B. Take Norman over Gheith.
+Tags: Participation matters, Group projects, Lots of homework
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Rather not say | Dec 2024
+Very confusing grading rubric. Very very glad this semester is over.
+Tags: Tough grader, Group projects
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: A | Dec 2024
+The class is difficult but Norman taught it well -- a lot of negative reviews are from frustrated students. An A is achievable with effort. Pre-recorded modules are best for learning. Content is easier than comp arch but projects are much harder. Retake grading is very strict. Do the learning sessions!
+Tags: Tough grader, Group projects, Lots of homework
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: A | Dec 2024
+Professor Norman is one of the best professors I've taken. It is a very difficult class, but the repetition of the material means that I won't forget it easily. The in-class group work is a lot of fun and the projects are fascinating. She cares about her students and will talk to you like a normal human in office hours.
+Tags: Group projects, Lots of homework, Caring
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not listed | Dec 2024
+The worst teacher ever. Projects are hard, exams are hard and she does not care. They will happily mark one section of one exam problem wrong and give you a 2, wasting another hour of your life doing the retake. Take anyone else.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B+ | Dec 2024
+20-40 hours per week on projects plus a floor-based grading system. One slip up can permanently drop your final grade by multiple letters. The stress and sleep deprivation from this class alone meant I was sick for half of the semester. The content itself is interesting and you'll learn a lot though.
+Tags: Group projects, Test heavy
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: C- | Dec 2024
+Grading system is unusual -- it is easier to pass this class than it is to get an A. Just get your core topics down and do your best on group projects. You get multiple chances to retake questions, use them effectively. Do not risk retaking test questions and doing worse than you originally did. Take the 3/5s and move on.
+Tags: Tough grader, Group projects, Test heavy

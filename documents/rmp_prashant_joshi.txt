@@ -1,0 +1,137 @@
+Professor: Prashant Joshi
+Department: Computer Science
+University: University of Texas at Austin
+Courses: CS429 (Computer Architecture), CS327E (Databases), CS326E
+Overall Quality: 3.8/5 | Would Take Again: 70% | Difficulty: 3.9/5
+Total Ratings: 41
+
+--- REVIEWS ---
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A | May 2026 | Course: CS327E
+The professor is super sweet and clearly loves his job. Actual homework was pretty easy with step-by-step instructions. There are pop quizzes but they don't affect your grade much. Would take again.
+Tags: Group projects, Beware of pop quizzes, Caring
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: A | May 2026 | Course: CS327E
+He clearly cares very deeply about students and the material but he just isn't good at teaching. Exams are way more difficult than the rest of the course. Lectures were tough to follow. There wasn't a single assignment that I didn't have to go to office hours to get regraded because of a mistake him or his TA made.
+Tags: Tough grader, Caring, Test heavy
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: B+ | Apr 2026 | Course: CS429
+He is an amazing professor with a lot of passion for the subject. You can go to any lecture and the exams match the material well. Attending his lecture or watching Chatterjee's videos are both good ways to do well in class.
+Tags: Hilarious, Caring, Respected
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: B- | Apr 2026 | Course: CS429
+Joshi makes one of the hardest classes for CS majors into an actual joy to learn. Yes the exams are super difficult and the projects are hard to start, but his passion for teaching pushes me to do more in this class despite its difficulty. Just do a lot of practice and go to his office hours for studying the exam. THE GOAT OF 429.
+Tags: Amazing lectures, Inspirational, Caring
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not listed | Jan 2026 | Course: CS327E
+Professor Joshi is clearly passionate about his work and tries his best to make lectures engaging and fun. But the content itself is very dense and the exams are insanely difficult. I can see that he truly cares about his students, but the class itself was the bane of my existence.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: B+ | Dec 2025 | Course: CS429
+He teaches the exact same curriculum as Chatterjee and they both do everything the same with grading. He's super passionate but the class is very poorly organized with ridiculously hard tests to weed kids out of the major. Worst CS class I've ever taken at UT.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B- | Dec 2025 | Course: CS429
+Dr. Joshi is an engaging lecturer and clearly demonstrates his care that his students succeed. The multiweek projects are difficult but hard to fail. The tests are very difficult and people rarely receive passing grades on them, but most will not fail this class. As long as you are prepared to put in a great deal of effort, you'll be fine.
+Tags: Lots of homework, Lecture heavy, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Dec 2025 | Course: CS327E
+AMAZING prof! I had a 91 and the cut-off for an A is 94, but he gave me an A. TAs were the worst and homework is unclear, but that's not Joshi's fault. Attendance is mandatory because he gives in-class quizzes randomly, but in general super kind and funny.
+Tags: Group projects, Beware of pop quizzes
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: Not sure | Dec 2025 | Course: CS429
+Dr. Joshi is very passionate about what he teaches and cares a lot. The class itself just sucks. Exams were brutal. GDB proficiency wasn't too bad -- just make sure to practice debugging on assignments, go to office hours, and START EARLY.
+Tags: Tough grader, Amazing lectures, Respected
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: Not listed | Nov 2025 | Course: CS429
+Phenomenal professor who is deeply passionate and caring. I always felt like I was talking to my grandfather when I was in his class. The class itself is hella difficult but that's no fault of Joshi.
+Tags: Amazing lectures, Hilarious, Test heavy
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: Rather not say | Nov 2025 | Course: CS327E
+Joshi is a great professor who knows what he's teaching well and is a very kind man. If you are truly interested in databases, he is the way to go. Homeworks were long but expected based on the amount of material.
+Tags: Caring, Lecture heavy, Accessible outside class
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: Not sure | Nov 2025 | Course: CS429
+Goated professor. Hard class.
+Tags: Amazing lectures, Inspirational, Test heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure | Nov 2025 | Course: CS429
+Him and Dr. Chatterjee are making comp arch harder and harder. The GDB proficiency exam covers stuff they barely taught and nobody in my testing room completed it.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Jul 2025 | Course: CS429
+Professor Joshi is a fantastic professor and human being. You can tell he genuinely cares about the content and his students -- there's never a dumb question in his class. The exams are incredibly difficult and the projects are time-consuming, so START EARLY.
+Tags: Extra credit, Amazing lectures
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: A- | May 2025 | Course: CS429
+Dr. Joshi is a wonderful professor who welcomes questions and values in-class participation. My one complaint is that his lectures are often indirect and fueled by analogies, which became rather confusing and sometimes made simple topics more complex than necessary.
+Tags: Lots of homework, Caring, Accessible outside class
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: Not sure | May 2025 | Course: CS429
+Joshi is a nice enough guy and very passionate about the material, but the class itself just sucks. Extremely long and tedious assignments, TAs are largely unhelpful outside of costudy sections. The class is pre-curved but it only helps if you're trying to pass and not get an A.
+Tags: Tough grader, Lots of homework, Respected
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: Not listed | May 2025 | Course: CS429
+This class was literally the bane of my existence. The material was so dense and exams were unapologetically brutal. However, Professor Joshi is one of the nicest and most passionate professors out there. He never makes you feel dumb for asking a question.
+Tags: Tough grader, Amazing lectures, Lecture heavy
+
+Quality: 3.0 | Difficulty: 4.0 | Grade: Not sure | Apr 2025 | Course: CS429
+Very passionate lecturer, but the material is boring and he struggles with time management. Weekly labs are very difficult with cryptic help from TAs -- START EARLY. Exams are difficult (above 60 avg) so study. Hard to get a good grade but also very hard to fail, most people pass with Bs.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: A | Apr 2025 | Course: CS429
+He's definitely my favorite UTCS professor and is super passionate about comp arch. I thought I had absolutely no interest in systems but he made me enjoy it. The exams are challenging but if you go to lecture and take notes you'll be fine. Save your slip days for the last project.
+Tags: Amazing lectures, Clear grading criteria, Lots of homework
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: A | Feb 2025 | Course: CS327E
+This man is a gem! So enthusiastic and really tried to make the class engaging. The material itself is a bit boring but the class is super relaxed with mostly straightforward projects and quizzes. Exams are not bad at all.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: Not listed | Feb 2025 | Course: CS429
+Joshi was a great professor and you could tell he really loved what he was teaching. This is a tough class but as long as you go to class and stay on top of your work you should be fine. Do not be afraid to ask for help!
+Tags: Inspirational, Lecture heavy
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: B+ | Feb 2025 | Course: CS429
+Joshi was a very nice professor who truly loves the subject. However, he sometimes goes off-track during lectures and expands a lot on electric conductors and transistors when they weren't necessarily part of the test materials.
+Tags: Inspirational, Caring, Lecture heavy
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: B | Jan 2025 | Course: CS429
+Great professor, would highly recommend! Very welcoming and truly wants you to learn and pass. Ask him anything, he will love it.
+Tags: Inspirational, Hilarious, Lecture heavy
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: Not listed | Dec 2024 | Course: CS327E
+Professor Joshi cared for his students and went beyond to make the class interactive. The material was not hard so as long as you studied you would be fine on exams. The many small group projects led entirely by TAs gave the entire class issues -- often times they didn't know what they were doing.
+Tags: Group projects, Inspirational, Caring
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: B+ | Dec 2024 | Course: CS429
+Amazing lecturer. Actually goated. Really hard class though.
+Tags: Amazing lectures, Caring, Test heavy
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure | Dec 2024 | Course: CS429
+Professor Joshi was a great professor who was truly passionate about teaching. The class was super difficult and took up all of my time, as the projects and tests are really tough. However, you could tell he wanted his students to succeed.
+Tags: Group projects, Inspirational, Lecture heavy
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Dec 2024 | Course: CS429
+Professor Joshi is an amazing professor. The twinkle in his eye shows his passion and love for teaching. Though the class is difficult and sometimes the projects are tough, he genuinely wanted students to understand the content by making it easier to grasp.
+Tags: Amazing lectures
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | Nov 2024 | Course: CS327E
+I intentionally have taken multiple courses with Dr. Joshi. He is truly very smart and prioritizes understanding and enthusiasm. He loves to teach and his main goal is to have his students excited about learning -- and it is very effective. He takes student feedback to heart and is very kind.
+Tags: Amazing lectures, Inspirational, Hilarious
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: Not sure | Nov 2024 | Course: CS429
+Dr. Joshi is very knowledgeable in computer systems and although the course can seem a bit disorganized, he really cares about students' learning and wants everyone to fall in love with the material. He loves when you ask questions! Utilize your TAs for assignments since the course is pretty tough.
+Tags: Caring, Lecture heavy
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Nov 2024 | Course: CS327E
+The best CS professor I have taken so far. Joshi is incredibly thoughtful and keeps his lectures interesting. He does not require any reading or pre-work outside of class. Project instructions are a little tricky sometimes but TAs and Ed Discussion help with that.
+Tags: Group projects, Amazing lectures
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: Not listed | Oct 2024 | Course: CS327E
+Professor Joshi is so incredibly boring and I don't understand anything from class because he puts me to sleep. The class is also super disorganized in terms of lecture notes. I did fairly well on the exam and projects though, so you can definitely learn the content on your own.
+Tags: Group projects, Lots of homework, Lecture heavy
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: Rather not say | May 2024 | Course: CS326E
+Joshi is a nice professor but is not very understanding or accommodating. There were always trick questions on his exams. Beware -- he will not drop or excuse missed participation quizzes for any reason, even with valid medical documentation.
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not listed | May 2024 | Course: CS326E
+This class was awful and incredibly boring. He always put trick questions on the exams and didn't even give full credit for participation.
+Tags: Tough grader, Participation matters, Lots of homework

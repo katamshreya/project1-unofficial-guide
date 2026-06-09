@@ -1,0 +1,24 @@
+Source: Reddit r/UTAustin
+Thread Title: What is the best professor for CS 312 at UT?
+URL: https://www.reddit.com/r/UTAustin/comments/1skyuel/what_is_the_best_professor_for_cs_312_at_ut/
+Total Comments: 7
+
+--- ORIGINAL POST ---
+I'm an incoming freshman studying CS and want to know the best professors for CS312. I found that Professor Carol had mixed reviews but wanted to make sure. I'm doing CS312 to refresh my coding knowledge before diving into upper division classes.
+
+--- COMMENTS ---
+
+BusinessAlive3486:
+There's only 1 professor that teaches CS312 at the moment so you don't have a choice. Carol Ramsey is a fine professor, especially if you already took CSA in high school. It's honestly a refresher. Taking CS312 is actually great preparation for CS314 -- it prepares you for the exam styles, code hygiene, and assignments. And the programs are pretty fun.
+
+Aggravating_Top6643 (OP):
+That's amazing then! I read on RMP that Ramsey wasn't the best so got worried, but thanks for this!
+
+QubitEncoder:
+Lots of people take CS312 even if they don't need to. It doesn't matter long-term.
+
+_Sh4_d0w:
+Unfortunately Professor Ramsey is the only professor for the class.
+
+Brownies_84:
+Where do you find what professors teach what class? Also I took CSA and was thinking about taking CS314 directly -- do you think it will be a huge jump?

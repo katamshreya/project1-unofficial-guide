@@ -1,0 +1,35 @@
+Source: Reddit r/UTAustin
+Thread Title: CS majors: Comp Arch vs OS
+URL: https://www.reddit.com/r/UTAustin/comments/1hke56n/cs_majors_comp_arch_vs_os/
+Total Comments: 4
+
+--- ORIGINAL POST ---
+I just finished CS429 and was wondering what people's thoughts are on OS. Was it about the same intensity as 429 or way harder? I have heard mixed opinions. I am registered for Gheith right now and I'm a bit nervous. Any insight would be greatly appreciated!
+
+--- COMMENTS ---
+
+afbl24:
+It's harder than comp arch, but it's mostly due to projects and not material. The material is maybe a bit harder than comp arch. When it comes to Gheith vs Norman, I would sum it up like this: Gheith is a better lecturer and nicer guy overall, but to do well in his class you need to really enjoy systems stuff because his projects can be very hard. Not to say Norman's are easy, but you at least have a group with Norman.
+
+away0122:
+Got an A- in 429 last semester and an A (with Mootaz) in 439 this semester. My experience:
+
+CS429:
+- Project difficulty: 6/10 (SE Lab 8/10)
+- Exam difficulty: 9/10
+- Hours per week: 10-15
+- Stress: 5/10 (manageable workload + forgiving grading system)
+
+CS439:
+- Project difficulty: 9.5/10
+- Exam difficulty: 7.5/10
+- Hours per week: 20-30
+- Stress: 9/10 (insane workload + any single mistake could potentially drop you multiple letter grades)
+
+Both classes were very hard but I think 429 was good preparation for 439.
+
+United_Chocolate_826:
+Significantly more intense, at least for me. I had Mootaz so not sure how different Gheith will be. It's definitely manageable as long as you start on the projects early and make sure you find a group you can work with comfortably. The exams didn't really matter much -- they let you retake 2 questions and there were some bonus points. Just imagine every project being at least as difficult as SE lab. Mootaz said to expect about 4 hours of work per day, but I did less than that and still got an A.
+
+cheeze2005:
+439 is hard. Go to office hours and get started on projects ASAP.
