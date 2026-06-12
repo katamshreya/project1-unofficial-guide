@@ -1,11 +1,32 @@
+# Pinned to the exact versions verified working together for this project.
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: this is a hand-tuned, internally inconsistent-by-design set. pip's
+# resolver will WARN about two pins (it does not error, and the stack runs):
+#   - sentence-transformers 3.4.1 declares transformers>=4.41.0, but 4.40.0 is
+#     pinned below that on purpose (see why below).
+#   - gradio 6.18.0 declares huggingface-hub>=1.2.0, but 0.36.2 is pinned below
+#     that on purpose (see why below).
+# These two lower pins are what let gradio and sentence-transformers coexist in
+# one interpreter. Do not "upgrade to fix the warnings" — that re-breaks it.
+
+# --- Embedding / vector store ---
 sentence-transformers==3.4.1
-chromadb>=0.6.0
+# transformers/tokenizers/huggingface-hub are transitive deps of
+# sentence-transformers, pinned explicitly because their versions are the crux
+# of the conflict. huggingface-hub must stay <1.0 so transformers works;
+# gradio tolerates 0.36.2 at runtime despite its >=1.2.0 metadata pin.
+transformers==4.40.0
+tokenizers==0.19.1
+huggingface-hub==0.36.2
+chromadb==1.5.9
+
+# --- Generation ---
 groq==0.15.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# --- Query interface (Milestone 5) ---
+gradio==6.18.0
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4
